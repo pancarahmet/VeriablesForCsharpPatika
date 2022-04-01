@@ -1,0 +1,2 @@
+# VeriablesForCsharpPatika
+VeriablesForpatika
