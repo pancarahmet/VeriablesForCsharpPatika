@@ -29,7 +29,7 @@ namespace VeriablesForCSharpPatika
             string str;     //  Cümle, paragraf gibi uzun yazılarda kullanılır. Değerleri " " çift tırnak içersinde yazarak alır ve kapladığı alan ise karakter adedi * 2 dir.
 
             // Onay işlemleri için kullanıcak veri tipi
-
+            String ahmet="Recep Ahmet Pancar"
             bool isTrue;    //  2 çeşit değer alır. true yada false değerleri alır. bazen 0 ve 1 değerleride bunlar yerine kullanıbilir. 0 false yerine 1 true yerine ve 4 byte yer kaplar.
 
             // Tarih ve Zaman işlemleri için kullanılıcak değişken tipleri
